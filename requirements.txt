@@ -1,6 +1,10 @@
 streamlit
-tensorflow-cpu==2.19.0
-numpy==1.26.4
-pillow
+tensorflow==2.18.0
+numpy
 opencv-python-headless
-h5py
+Pillow
+matplotlib
+scikit-learn
+reportlab
+pandas
+plotly

@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.59.2
 tensorflow==2.18.0
 numpy
 opencv-python-headless
@@ -8,3 +8,4 @@ scikit-learn
 reportlab
 pandas
 plotly
+openpyxl
